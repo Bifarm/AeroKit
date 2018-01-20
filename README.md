@@ -26,4 +26,4 @@ Search for "Bifarm Grow" on app stores, or follow the links below
 
 [ios.bifarm.com](http://ios.bifarm.com)
 
-[android.bifarm.com](http://ios.bifarm.com)
+[android.bifarm.com](http://android.bifarm.com)

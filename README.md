@@ -27,3 +27,20 @@ Search for "Bifarm Grow" on app stores, or follow the links below
 [ios.bifarm.com](http://ios.bifarm.com)
 
 [android.bifarm.com](http://android.bifarm.com)
+
+## Optional 3rd party Components
+
+### Cameras: Any USB Video Device Class (UVC) compatible webcams. 
+
+  [IPEVO Point 2 View USB Camera](http://amzn.to/2DUd2sB)
+  
+  [Logitech HD Pro Webcam C920](http://amzn.to/2G0DbpY)
+  
+  More tested models to be listed.
+  
+### External switches: 
+
+AeroKit come with one relay switch. You can either use power strip with it, or you can buy get [IoT Relay](http://amzn.to/2DSSbpq) for additional power outlets
+
+ 
+  

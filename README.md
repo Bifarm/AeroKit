@@ -40,7 +40,9 @@ Search for "Bifarm Grow" on app stores, or follow the links below
   
 ### External switches: 
 
-AeroKit come with one relay switch. You can either use power strip with it, or you can buy get [IoT Relay](http://amzn.to/2DSSbpq) for additional power outlets
+AeroKit come with one relay switch. You can either use power strip with it, or you can buy get the following relays for additional power outlets. Some wiring skills needed. 
+
+[IoT Relay](http://amzn.to/2DSSbpq) 
 
  
   

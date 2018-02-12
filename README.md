@@ -32,6 +32,10 @@ Search for "Bifarm Grow" on app stores, or follow the links below
 
 [android.bifarm.com](http://android.bifarm.com)
 
+## Tested Nutrients
+
+[General Hydroponics Flora series](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=bifarm-20&keywords=general%20hydroponics%20flora%20series)
+
 ## Optional 3rd party Components
 
 ### Cameras: Any USB Video Device Class (UVC) compatible webcams. 

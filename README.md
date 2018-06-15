@@ -52,5 +52,9 @@ AeroKit come with one relay switch. You can either use power strip with it, or y
 
 [IoT Relay](http://amzn.to/2DSSbpq) 
 
- 
+
+### Part List
+
+[AeroKit Parts]
+
   

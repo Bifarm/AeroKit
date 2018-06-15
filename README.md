@@ -18,6 +18,14 @@ The Bifarm AeroKit includes the hardware to setup an aeroponic habitat and the s
 
 ## AeroKit Manuals
 
+*Ver 1*
+
+[Part List](https://medium.com/p/5e56a3233409)
+
+[Assembling instruction document](https://github.com/Bifarm/AeroKit/raw/master/Installation%20instructions%20ver%201.0.pdf)
+
+*Ver 1.1*
+
 [Assembling instruction video](https://youtu.be/8GAtJqxVfvk)
 
 [Assembling instruction document](https://github.com/Bifarm/AeroKit/raw/master/AeroKit%20Installation%20V.%201.1.pdf)

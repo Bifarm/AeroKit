@@ -13,8 +13,6 @@ The Bifarm AeroKit includes the hardware to setup an aeroponic habitat and the s
 
 [Blogs: blog.bifarm.com](https://blog.bifarm.com)
 
-[Bifarm Community](https://forum.bifarm.com)
-
 
 ## AeroKit Manuals
 
